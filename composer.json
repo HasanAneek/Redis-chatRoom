@@ -1,0 +1,6 @@
+{
+    "require": {
+        "components/jquery": "^3.5",
+        "predis/predis": "^1.1"
+    }
+}
